@@ -1,0 +1,66 @@
+p{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.profilephoto{
+  width: 200px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 1px;
+  
+}
+
+.name{
+  font-weight: bolder;
+  font-size: larger;
+  padding-left: 10px;
+  margin-top: 9px;
+}
+
+
+.mutuals{
+  padding-left: 5px;
+  margin-top: 6px;
+  display: inline-block; 
+}
+
+.request{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 24px;
+  padding-right: 24px;
+  background-color: rgb(0, 153, 255);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 9px;
+  margin-top: 12px;
+  margin-bottom: 9px;
+  cursor: pointer;
+}
+
+.stru{
+  background-color: white;
+  width: 200px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, .2);
+  padding-top: 0px;
+  border-radius: 3px;
+}
+
+.mut-phto{
+  width: 22px;
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 15px;
+  margin-left: 10px;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  column-gap: 15px;
+  align-items: center;
+}
+

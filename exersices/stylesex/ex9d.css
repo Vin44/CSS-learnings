@@ -1,0 +1,23 @@
+p{
+  font-family: Arial;
+}
+
+.box{
+  background-color: rgb(34, 33, 33);
+  display: inline-block;
+}
+
+.des{
+  width: 350px;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  color: grey;
+}
+
+.topic{
+  font-weight: bolder;
+  padding-left: 20px;
+  font-size: x-large;
+  margin-bottom: 1px;
+  color: white;  
+}

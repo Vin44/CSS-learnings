@@ -1,0 +1,32 @@
+.tweet{
+  background-color: rgb(34, 120, 190);
+  border: none;
+  color: white;
+  height: 40px;
+  width: 80px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  transition: box-hadow .15;
+  
+}
+
+.tweet:hover{
+  box-shadow: 5px 05px 10px rgba(0, 0, 0, .15);
+}
+
+.sana{
+  height: 50px;
+  width: 50px;
+  vertical-align: middle;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 25px;
+}
+
+.search{
+  border: none;
+  font-size: larger;
+  padding-left: 10px;
+}

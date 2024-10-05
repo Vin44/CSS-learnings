@@ -1,0 +1,22 @@
+p{
+  font-family: Montserrat;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.model{
+  font-weight: 600;
+  font-size: xx-large;
+  margin-bottom: 10px;
+}
+
+.oder{
+  font-size: 100;
+  font-weight: 400;
+}
+
+.touch:hover{
+  cursor: pointer;
+  text-decoration: underline; 
+}

@@ -1,0 +1,50 @@
+p{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.profilephoto{
+  width: 200px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 1px;
+}
+
+.Name{
+  font-weight: bolder;
+  font-size: larger;
+  padding-left: 10px;
+  margin-top: 9px;
+}
+
+
+.mutuals{
+  padding-left: 10px;
+  margin-top: 6px;
+}
+
+.request{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 24px;
+  padding-right: 24px;
+  background-color: rgb(0, 153, 255);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 9px;
+  margin-top: 12px;
+  margin-bottom: 9px;
+  cursor: pointer;
+}
+
+.bottom{
+  background-color: white;
+  width: 200px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, .2);
+  padding-top: 0px;
+  border-radius: 3px;
+  display: inline-block;
+  margin-right: 15px;
+}
